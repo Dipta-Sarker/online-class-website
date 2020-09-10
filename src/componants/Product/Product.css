@@ -1,0 +1,7 @@
+.course{
+    width:20%;
+    margin-right: 5px;
+    background-color: yellow;
+    border:2px solid lightgreen;
+    border-radius: 8px;
+}
